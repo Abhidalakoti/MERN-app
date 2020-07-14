@@ -1,3 +1,6 @@
 [submodule "react-crud"]
 	path = react-crud
 	url = /home/dell/MERN2/react-crud
+[submodule "react-crud1"]
+	path = react-crud1
+	url = https://github.com/Abhidalakoti/react-crud.git
